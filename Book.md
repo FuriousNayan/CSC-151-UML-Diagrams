@@ -11,5 +11,7 @@
 #### + setBookTitle():(bookTitle: String): void
 #### + getAuthor(): String
 #### + setAuthor(author: String): void
+#### + getPages(): String
+#### + setPages(pages: String): void
 #### + read(): void
 #### + getAllPages(): int

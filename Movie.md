@@ -11,5 +11,7 @@
 #### + setMovieTitle():(movieTitle: String): void
 #### + getRating(): int
 #### + setRating(rating: int): void
+#### + getPlayCount(): int
+#### + setPlayCount(playCount: int) void
 #### + rateMovie(): void
 #### + watch(): void

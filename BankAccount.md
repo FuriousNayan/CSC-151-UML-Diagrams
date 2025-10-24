@@ -11,5 +11,7 @@
 #### + setBalance():(balance: int): void
 #### + getAccountHolder(): String
 #### + setAccountHolder(accountHolder: String): void
+#### + getBank(): int
+#### + setBank(bank: int) void
 #### + netWorth(): int
 #### + bankContactInfo(): String

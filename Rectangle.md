@@ -14,5 +14,7 @@
 #### + setHeight(height: int): void
 #### + getArea(): int
 #### + setArea(area: int): void
+#### + getPerimeter(): int
+#### + setPerimeter(oerimeter: int): void
 #### + shrinkRectangle(): void
 #### + enlargeRectangle(): void
